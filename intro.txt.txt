@@ -1,1 +1,2 @@
-this is the repo for web development course..
+This is the repository for Course Development..
+We will be creating GitHub Course..
